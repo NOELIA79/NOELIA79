@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-# 💫 About Me:
+# 💫 aserca de mi:
 <br>Acerca de mi<br>perfil de GitHub -Noelia Villanueva<br><br><br>?hola soy Noelia Villanueva soy aprendiz del Técnico en programación  de software <br>ficha  2875029<br><br>mi objetivo es aprender y compartir mis conocimientos experiencias para ayudar<br>a otros a aprender y crecer en el mundo de la programación
 
 
